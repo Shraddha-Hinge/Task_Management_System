@@ -40,8 +40,3 @@ To use this project, follow these steps:
 3. Navigate to the project directory in your terminal.
 4. Compile the project using the provided Makefile with the `make` command.
 5. Run the executable `taskmanager.out` to start the application.
-
-## Further Information
-
-For any issues, suggestions, or contributions, please feel free to open an issue or pull request on the project's repository.
-
